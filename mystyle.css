@@ -1,0 +1,14 @@
+/* Selectors include code that designate two pieces of information.
+   property: value; The property is what you're styling, and value 
+   is how you're styling it. */
+
+body{
+	background-color: #DDDDAF;
+	margin: 0  auto;
+	width: 400px;
+	font-family: "Times New Roman", Times, serif;
+}
+
+h1 {
+	color: red;
+}
